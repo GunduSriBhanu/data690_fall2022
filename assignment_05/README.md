@@ -10,5 +10,17 @@ The process of data analysis starts with:
 * **Analysis:** Exploration of data, correlation, statistical analysis and visualization of data.
 * **Action:** Building Machine learning models, ETL pipelines building, live dashboards creation.
 
+The libraries used in python ecosystem are pandas, numpy, seaborn, matplotlib, statsmodels, scipy, sklearn models.
+
+In this video, I learned about the data analysis that starts from extracting data from different type of files like json, csv, databases and the data extracted by using pandas library with pandas dataframe to check the info, shape, head and statistics of the table. checking numerical and categorical values. 
+* In the first notebook of **data analysis**, learned about the analysis of data, columns and visualization to gather insights from the data.
+* In the second notebook or **reading from files** , learned about the different libraries to extract the data like sqlite3, json and reading data from .csv files, html   files.
+* In the third notebook **jupyter notebook**, learned about the basic operations on interactive cells performing, basic operations like addition and subtraction.
+* In the fourth notebook **Numpy**, learned about the arrays creation of one dimensional, indexing, slicing 
+* In the fifth notebook **Pandas series**, learned about the series creation, modifying series, learning about the boolean arrays, statastical operations on python series.
+* In the sixth notebook **Pandas DataFrame**, learned about the creation of dataframes, slicing and modifying, dropping columns, performing statastical operations.
+* In the seventh notebook **Data Cleaning**, learned about the process of data cleaning by applying numpy, pandas libraries to find missing values, duplicate values,       outliers detection, InterQuartile range.
+* In the eigth notebook **Recap**, learned about the importance of python 3 (high level language), collections, tuples and lists operations with the built in functions,   process of raising exceptions and solving the exceptions using "try and except", performing boolean operations.
+
 
      

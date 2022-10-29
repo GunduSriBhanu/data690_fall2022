@@ -1,0 +1,631 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,7.7100000381000005,SL.UEM.TOTL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+1,2011,7.1799998283,SL.UEM.TOTL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+2,2012,7.2199997902,SL.UEM.TOTL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+3,2013,7.0999999046,SL.UEM.TOTL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+4,2014,7.2699999809,SL.UEM.TOTL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+5,2015,7.5209999084,SL.UEM.TOTL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+6,2010,5.2100000381000005,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+7,2011,5.0799999237,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+8,2012,5.2199997902,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+9,2013,5.6599998474,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+10,2014,6.0799999237,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+11,2015,6.0500001907,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+12,2010,7.2740001678,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+13,2011,6.9200000763,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+14,2012,7.1900000572,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+15,2013,6.9800000191,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+16,2014,6.6599998474,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+17,2015,8.4300003052,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+18,2010,8.0600004196,SL.UEM.TOTL.ZS,CAN,Canada,North America,High income,Not classified
+19,2011,7.5100002289,SL.UEM.TOTL.ZS,CAN,Canada,North America,High income,Not classified
+20,2012,7.2899999618999995,SL.UEM.TOTL.ZS,CAN,Canada,North America,High income,Not classified
+21,2013,7.0700001717,SL.UEM.TOTL.ZS,CAN,Canada,North America,High income,Not classified
+22,2014,6.9099998474,SL.UEM.TOTL.ZS,CAN,Canada,North America,High income,Not classified
+23,2015,6.9099998474,SL.UEM.TOTL.ZS,CAN,Canada,North America,High income,Not classified
+24,2010,4.5300002098,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+25,2011,4.5500001907000005,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+26,2012,4.5700001717,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+27,2013,4.5900001526,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+28,2014,4.6100001335,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+29,2015,4.6300001144,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+30,2010,8.8699998856,SL.UEM.TOTL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+31,2011,8.8100004196,SL.UEM.TOTL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+32,2012,9.3999996185,SL.UEM.TOTL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+33,2013,9.9200000763,SL.UEM.TOTL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+34,2014,10.2899999619,SL.UEM.TOTL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+35,2015,10.3500003815,SL.UEM.TOTL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+36,2010,6.9699997902,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+37,2011,5.8200001717,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+38,2012,5.3800001144,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+39,2013,5.2300000191,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+40,2014,4.9800000191,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+41,2015,4.6199998856,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+42,2010,5.5460000038,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+43,2011,5.4260001183,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+44,2012,5.4140000343,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+45,2013,5.4239997864,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+46,2014,5.4359998703,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+47,2015,5.4349999428,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+48,2010,5.6100001335,SL.UEM.TOTL.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+49,2011,5.1500000954,SL.UEM.TOTL.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+50,2012,4.4699997902,SL.UEM.TOTL.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+51,2013,4.3400001526,SL.UEM.TOTL.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+52,2014,4.0500001907,SL.UEM.TOTL.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+53,2015,4.5100002289,SL.UEM.TOTL.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+54,2010,8.3599996567,SL.UEM.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+55,2011,8.3599996567,SL.UEM.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+56,2012,10.6499996185,SL.UEM.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+57,2013,12.1499996185,SL.UEM.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+58,2014,12.6800003052,SL.UEM.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+59,2015,11.8999996185,SL.UEM.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+60,2010,5.0999999046,SL.UEM.TOTL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+61,2011,4.5500001907000005,SL.UEM.TOTL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+62,2012,4.3600001335,SL.UEM.TOTL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+63,2013,4.0,SL.UEM.TOTL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+64,2014,3.5999999045999997,SL.UEM.TOTL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+65,2015,3.4000000954000003,SL.UEM.TOTL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+66,2010,3.3199999332,SL.UEM.TOTL.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+67,2011,2.9900000095,SL.UEM.TOTL.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+68,2012,2.8099999428,SL.UEM.TOTL.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+69,2013,2.75,SL.UEM.TOTL.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+70,2014,3.0799999237,SL.UEM.TOTL.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+71,2015,3.5499999523,SL.UEM.TOTL.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+72,2010,5.3000001907,SL.UEM.TOTL.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+73,2011,5.1700000763,SL.UEM.TOTL.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+74,2012,4.8899998665,SL.UEM.TOTL.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+75,2013,4.9099998474,SL.UEM.TOTL.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+76,2014,4.8099999428,SL.UEM.TOTL.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+77,2015,4.3099999428,SL.UEM.TOTL.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+78,2010,7.3699998856,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+79,2011,6.5399999618999995,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+80,2012,5.4400000572,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+81,2013,5.4600000381000005,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+82,2014,5.1599998474,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+83,2015,5.5700001717,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+84,2010,5.5500001907000005,SL.UEM.TOTL.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+85,2011,5.7699999809,SL.UEM.TOTL.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+86,2012,5.5199999809,SL.UEM.TOTL.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+87,2013,5.5700001717,SL.UEM.TOTL.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+88,2014,5.7199997902,SL.UEM.TOTL.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+89,2015,5.5900001526,SL.UEM.TOTL.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+90,2010,24.6800003052,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+91,2011,24.6399993896,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+92,2012,24.7299995422,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+93,2013,24.5599994659,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+94,2014,24.8899993896,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+95,2015,25.1499996185,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+96,2010,10.6599998474,SL.UEM.TOTL.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+97,2011,8.8000001907,SL.UEM.TOTL.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+98,2012,8.1499996185,SL.UEM.TOTL.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+99,2013,8.7299995422,SL.UEM.TOTL.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+100,2014,9.8800001144,SL.UEM.TOTL.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+101,2015,10.2399997711,SL.UEM.TOTL.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+102,2010,7.7899999618999995,SL.UEM.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+103,2011,8.0399999619,SL.UEM.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+104,2012,7.8800001144,SL.UEM.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+105,2013,7.5199999809,SL.UEM.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+106,2014,6.1100001335,SL.UEM.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+107,2015,5.3000001907,SL.UEM.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+108,2010,9.6300001144,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+109,2011,8.9499998093,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+110,2012,8.0699996948,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+111,2013,7.3699998856,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+112,2014,6.1700000763,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+113,2015,5.2800002098,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+114,2010,41.7957115173,SE.SEC.CUAT.PO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+115,2011,42.7026596069,SE.SEC.CUAT.PO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+116,2012,46.461971283,SE.SEC.CUAT.PO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+117,2013,41.6412010193,SE.SEC.CUAT.PO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+118,2014,44.2573318481,SE.SEC.CUAT.PO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+119,2015,45.3547706604,SE.SEC.CUAT.PO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+120,2011,59.6403083801,SE.SEC.CUAT.PO.ZS,CAN,Canada,North America,High income,Not classified
+121,2010,24.5197200775,SE.SEC.CUAT.PO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+122,2011,25.2229690552,SE.SEC.CUAT.PO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+123,2012,26.0628604889,SE.SEC.CUAT.PO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+124,2013,27.370470047,SE.SEC.CUAT.PO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+125,2014,28.662979126,SE.SEC.CUAT.PO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+126,2015,30.4950809479,SE.SEC.CUAT.PO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+127,2010,30.2569007874,SE.SEC.CUAT.PO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+128,2011,31.1494998932,SE.SEC.CUAT.PO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+129,2012,31.7936401367,SE.SEC.CUAT.PO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+130,2013,32.3349189758,SE.SEC.CUAT.PO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+131,2014,33.4242095947,SE.SEC.CUAT.PO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+132,2015,34.4100914001,SE.SEC.CUAT.PO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+133,2011,10.0123796463,SE.SEC.CUAT.PO.ZS,IND,India,South Asia,Lower middle income,IBRD
+134,2010,12.7826499939,SE.SEC.CUAT.PO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+135,2011,12.7895298004,SE.SEC.CUAT.PO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+136,2012,13.5408096313,SE.SEC.CUAT.PO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+137,2014,14.4479999542,SE.SEC.CUAT.PO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+138,2015,14.9665002823,SE.SEC.CUAT.PO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+139,2010,63.0593795776,SE.SEC.CUAT.PO.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+140,2013,25.8880405426,SE.SEC.CUAT.PO.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+141,2010,12.4131603241,SE.SEC.CUAT.PO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+142,2011,12.7268295288,SE.SEC.CUAT.PO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+143,2012,13.6019697189,SE.SEC.CUAT.PO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+144,2014,14.6151800156,SE.SEC.CUAT.PO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+145,2015,15.1957597733,SE.SEC.CUAT.PO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+146,2010,33.8117103577,SE.SEC.CUAT.PO.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+147,2011,33.0590400696,SE.SEC.CUAT.PO.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+148,2012,36.9503593445,SE.SEC.CUAT.PO.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+149,2010,4.52,NY.ADJ.AEDU.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+150,2011,4.868164362,NY.ADJ.AEDU.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+151,2012,5.216328724,NY.ADJ.AEDU.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+152,2013,5.2418070246,NY.ADJ.AEDU.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+153,2014,5.094118489,NY.ADJ.AEDU.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+154,2015,5.2509304698,NY.ADJ.AEDU.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+155,2010,5.08,NY.ADJ.AEDU.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+156,2011,4.85,NY.ADJ.AEDU.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+157,2012,5.05,NY.ADJ.AEDU.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+158,2013,4.957365533,NY.ADJ.AEDU.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+159,2014,4.8647310661,NY.ADJ.AEDU.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+160,2015,5.0201125335,NY.ADJ.AEDU.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+161,2010,5.39,NY.ADJ.AEDU.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+162,2011,5.49,NY.ADJ.AEDU.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+163,2012,5.54,NY.ADJ.AEDU.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+164,2013,5.541950631,NY.ADJ.AEDU.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+165,2014,5.6732303289,NY.ADJ.AEDU.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+166,2015,6.0962202266,NY.ADJ.AEDU.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+167,2010,5.0,NY.ADJ.AEDU.GN.ZS,CAN,Canada,North America,High income,Not classified
+168,2011,4.93,NY.ADJ.AEDU.GN.ZS,CAN,Canada,North America,High income,Not classified
+169,2012,4.93,NY.ADJ.AEDU.GN.ZS,CAN,Canada,North America,High income,Not classified
+170,2013,4.93,NY.ADJ.AEDU.GN.ZS,CAN,Canada,North America,High income,Not classified
+171,2014,4.93,NY.ADJ.AEDU.GN.ZS,CAN,Canada,North America,High income,Not classified
+172,2015,4.93,NY.ADJ.AEDU.GN.ZS,CAN,Canada,North America,High income,Not classified
+173,2010,1.79,NY.ADJ.AEDU.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+174,2011,1.79,NY.ADJ.AEDU.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+175,2012,1.79,NY.ADJ.AEDU.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+176,2013,1.79,NY.ADJ.AEDU.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+177,2014,1.79,NY.ADJ.AEDU.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+178,2015,1.79,NY.ADJ.AEDU.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+179,2010,5.1,NY.ADJ.AEDU.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+180,2011,4.95,NY.ADJ.AEDU.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+181,2012,5.01,NY.ADJ.AEDU.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+182,2013,4.9163312232,NY.ADJ.AEDU.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+183,2014,4.9554147333,NY.ADJ.AEDU.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+184,2015,4.9354065341,NY.ADJ.AEDU.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+185,2010,4.68,NY.ADJ.AEDU.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+186,2011,4.54,NY.ADJ.AEDU.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+187,2012,4.67,NY.ADJ.AEDU.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+188,2013,4.4612020517,NY.ADJ.AEDU.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+189,2014,4.4789682165,NY.ADJ.AEDU.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+190,2015,4.431728014,NY.ADJ.AEDU.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+191,2010,3.08,NY.ADJ.AEDU.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+192,2011,3.08,NY.ADJ.AEDU.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+193,2012,3.08,NY.ADJ.AEDU.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+194,2013,3.08,NY.ADJ.AEDU.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+195,2014,3.08,NY.ADJ.AEDU.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+196,2015,3.08,NY.ADJ.AEDU.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+197,2010,2.55,NY.ADJ.AEDU.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+198,2011,2.86,NY.ADJ.AEDU.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+199,2012,3.05,NY.ADJ.AEDU.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+200,2013,3.05,NY.ADJ.AEDU.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+201,2014,3.00521623,NY.ADJ.AEDU.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+202,2015,3.2684515473999998,NY.ADJ.AEDU.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+203,2010,4.12,NY.ADJ.AEDU.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+204,2011,3.93,NY.ADJ.AEDU.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+205,2012,3.908426416,NY.ADJ.AEDU.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+206,2013,3.9186062272,NY.ADJ.AEDU.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+207,2014,3.864790997,NY.ADJ.AEDU.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+208,2015,3.913441032,NY.ADJ.AEDU.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+209,2010,3.0738661849,NY.ADJ.AEDU.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+210,2011,3.1044982742,NY.ADJ.AEDU.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+211,2012,3.1945600765,NY.ADJ.AEDU.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+212,2013,3.1216189665,NY.ADJ.AEDU.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+213,2014,2.9848830033000002,NY.ADJ.AEDU.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+214,2015,2.8625927777999998,NY.ADJ.AEDU.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+215,2010,4.0424773197,NY.ADJ.AEDU.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+216,2011,4.1549546394,NY.ADJ.AEDU.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+217,2012,4.11,NY.ADJ.AEDU.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+218,2013,4.5629135442,NY.ADJ.AEDU.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+219,2014,4.5957691071,NY.ADJ.AEDU.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+220,2015,4.6387350805,NY.ADJ.AEDU.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+221,2010,5.01,NY.ADJ.AEDU.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+222,2011,5.04,NY.ADJ.AEDU.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+223,2012,5.002434519,NY.ADJ.AEDU.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+224,2013,4.5985012643,NY.ADJ.AEDU.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+225,2014,5.1888903762,NY.ADJ.AEDU.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+226,2015,5.2028497351,NY.ADJ.AEDU.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+227,2010,3.557456024,NY.ADJ.AEDU.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+228,2011,3.5585486677000002,NY.ADJ.AEDU.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+229,2012,3.5596413113,NY.ADJ.AEDU.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+230,2013,3.5801741334,NY.ADJ.AEDU.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+231,2014,3.7548151488,NY.ADJ.AEDU.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+232,2015,3.6376841098,NY.ADJ.AEDU.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+233,2010,7.1861867,NY.ADJ.AEDU.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+234,2011,7.1861867,NY.ADJ.AEDU.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+235,2012,7.1861867,NY.ADJ.AEDU.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+236,2013,7.1861867,NY.ADJ.AEDU.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+237,2014,7.1861867,NY.ADJ.AEDU.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+238,2015,7.1861867,NY.ADJ.AEDU.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+239,2010,5.55,NY.ADJ.AEDU.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+240,2011,5.89,NY.ADJ.AEDU.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+241,2012,6.25,NY.ADJ.AEDU.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+242,2013,5.9324537608,NY.ADJ.AEDU.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+243,2014,5.97,NY.ADJ.AEDU.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+244,2015,5.6353452385,NY.ADJ.AEDU.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+245,2010,3.4884071226,NY.ADJ.AEDU.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+246,2011,3.7005089032000003,NY.ADJ.AEDU.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+247,2012,3.9126106838,NY.ADJ.AEDU.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+248,2013,3.8253942646,NY.ADJ.AEDU.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+249,2014,3.813895886,NY.ADJ.AEDU.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+250,2015,3.7981981178,NY.ADJ.AEDU.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+251,2010,5.5,NY.ADJ.AEDU.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+252,2011,5.15,NY.ADJ.AEDU.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+253,2012,5.26,NY.ADJ.AEDU.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+254,2013,5.37,NY.ADJ.AEDU.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+255,2014,5.5391335441,NY.ADJ.AEDU.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+256,2015,5.4999313232,NY.ADJ.AEDU.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+257,2010,4.8409662826,NY.ADJ.AEDU.GN.ZS,USA,United States,North America,High income,Not classified
+258,2011,5.05,NY.ADJ.AEDU.GN.ZS,USA,United States,North America,High income,Not classified
+259,2012,4.5020016693,NY.ADJ.AEDU.GN.ZS,USA,United States,North America,High income,Not classified
+260,2013,4.4043240083,NY.ADJ.AEDU.GN.ZS,USA,United States,North America,High income,Not classified
+261,2014,4.3964750598,NY.ADJ.AEDU.GN.ZS,USA,United States,North America,High income,Not classified
+262,2015,4.3964750598,NY.ADJ.AEDU.GN.ZS,USA,United States,North America,High income,Not classified
+263,2013,5.7570199966,SE.TER.CUAT.MS.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+264,2014,6.3621401787,SE.TER.CUAT.MS.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+265,2015,7.0200901031,SE.TER.CUAT.MS.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+266,2010,0.37867999080000003,SE.TER.CUAT.MS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+267,2014,8.3515195847,SE.TER.CUAT.MS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+268,2015,8.7673101425,SE.TER.CUAT.MS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+269,2014,10.7488899231,SE.TER.CUAT.MS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+270,2015,11.0329399109,SE.TER.CUAT.MS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+271,2014,0.5644500256,SE.TER.CUAT.MS.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+272,2015,0.516470015,SE.TER.CUAT.MS.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+273,2010,3.5432400703,SE.TER.CUAT.MS.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+274,2015,4.4451398849,SE.TER.CUAT.MS.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+275,2010,1.3112100362999999,SE.TER.CUAT.MS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+276,2013,1.2828299999000001,SE.TER.CUAT.MS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+277,2014,1.2443399429,SE.TER.CUAT.MS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+278,2015,2.0877399445,SE.TER.CUAT.MS.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+279,2013,0.5549200177,SE.TER.CUAT.MS.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+280,2014,0.7555299997,SE.TER.CUAT.MS.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+281,2015,1.1791900396,SE.TER.CUAT.MS.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+282,2013,1.5528199673,SE.TER.CUAT.MS.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+283,2014,1.6361999512,SE.TER.CUAT.MS.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+284,2015,1.7561600207999999,SE.TER.CUAT.MS.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+285,2013,8.5787401199,SE.TER.CUAT.MS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+286,2014,8.7843704224,SE.TER.CUAT.MS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+287,2013,11.5664396286,SE.TER.CUAT.MS.ZS,USA,United States,North America,High income,Not classified
+288,2014,11.7653598785,SE.TER.CUAT.MS.ZS,USA,United States,North America,High income,Not classified
+289,2015,11.9948501587,SE.TER.CUAT.MS.ZS,USA,United States,North America,High income,Not classified
+290,2010,40788453.0,SP.POP.TOTL,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+291,2011,41261490.0,SP.POP.TOTL,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+292,2012,41733271.0,SP.POP.TOTL,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+293,2013,42202935.0,SP.POP.TOTL,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+294,2014,42669500.0,SP.POP.TOTL,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+295,2015,43131966.0,SP.POP.TOTL,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+296,2010,22031750.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+297,2011,22340024.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+298,2012,22733465.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+299,2013,23128129.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+300,2014,23475686.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+301,2015,23815995.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+302,2010,195713637.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+303,2011,197514541.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+304,2012,199287292.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+305,2013,201035904.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+306,2014,202763744.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+307,2015,204471759.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+308,2010,34004889.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+309,2011,34339328.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+310,2012,34714222.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+311,2013,35082954.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+312,2014,35437435.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+313,2015,35702908.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+314,2010,1337705000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+315,2011,1345035000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+316,2012,1354190000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+317,2013,1363240000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+318,2014,1371860000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+319,2015,1379860000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+320,2010,65027505.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+321,2011,65342789.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+322,2012,65659814.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+323,2013,65998685.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+324,2014,66312067.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+325,2015,66548272.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+326,2010,81776930.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+327,2011,80274983.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+328,2012,80425823.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+329,2013,80645605.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+330,2014,80982500.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+331,2015,81686611.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+332,2010,1234281163.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+333,2011,1250287939.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+334,2012,1265780243.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+335,2013,1280842119.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+336,2014,1295600768.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+337,2015,1310152392.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+338,2010,241834226.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+339,2011,245115988.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+340,2012,248451714.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+341,2013,251805314.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+342,2014,255128076.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+343,2015,258383257.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+344,2010,59277417.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+345,2011,59379449.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+346,2012,59539717.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+347,2013,60233948.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+348,2014,60789140.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+349,2015,60730582.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+350,2010,128070000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+351,2011,127833000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+352,2012,127629000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+353,2013,127445000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+354,2014,127276000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+355,2015,127141000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+356,2010,49554112.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+357,2011,49936638.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+358,2012,50199853.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+359,2013,50428893.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+360,2014,50746659.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+361,2015,51014947.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+362,2010,114092961.0,SP.POP.TOTL,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+363,2011,115695468.0,SP.POP.TOTL,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+364,2012,117274156.0,SP.POP.TOTL,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+365,2013,118827158.0,SP.POP.TOTL,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+366,2014,120355137.0,SP.POP.TOTL,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+367,2015,121858251.0,SP.POP.TOTL,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+368,2010,142849468.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+369,2011,142960908.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+370,2012,143201721.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+371,2013,143506995.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+372,2014,143819667.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+373,2015,144096870.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+374,2010,27421468.0,SP.POP.TOTL,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+375,2011,28267591.0,SP.POP.TOTL,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+376,2012,29154906.0,SP.POP.TOTL,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+377,2013,30052058.0,SP.POP.TOTL,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+378,2014,30916603.0,SP.POP.TOTL,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+379,2015,31717676.0,SP.POP.TOTL,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+380,2010,51216967.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+381,2011,52003759.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+382,2012,52832659.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+383,2013,53687125.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+384,2014,54544184.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+385,2015,55386369.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+386,2010,72326992.0,SP.POP.TOTL,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+387,2011,73443254.0,SP.POP.TOTL,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+388,2012,74651046.0,SP.POP.TOTL,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+389,2013,75925454.0,SP.POP.TOTL,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+390,2014,77229262.0,SP.POP.TOTL,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+391,2015,78529413.0,SP.POP.TOTL,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+392,2010,62766365.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+393,2011,63258810.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+394,2012,63700215.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+395,2013,64128273.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+396,2014,64602298.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+397,2015,65116219.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+398,2010,309327143.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+399,2011,311583481.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+400,2012,313877662.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+401,2013,316059947.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+402,2014,318386329.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+403,2015,320738994.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+404,2014,1.1374399662,SE.TER.CUAT.DO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+405,2015,1.3175599574999999,SE.TER.CUAT.DO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+406,2014,0.7128900290000001,SE.TER.CUAT.DO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+407,2015,0.7641400099,SE.TER.CUAT.DO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+408,2014,1.2611299753,SE.TER.CUAT.DO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+409,2015,1.2892400026,SE.TER.CUAT.DO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+410,2015,0.0321299993,SE.TER.CUAT.DO.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+411,2010,0.5788400173,SE.TER.CUAT.DO.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+412,2015,0.7718700171,SE.TER.CUAT.DO.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+413,2010,0.14268000420000002,SE.TER.CUAT.DO.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+414,2013,0.0850400031,SE.TER.CUAT.DO.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+415,2014,0.0840200037,SE.TER.CUAT.DO.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+416,2015,0.2247699946,SE.TER.CUAT.DO.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+417,2010,0.6494899988,SE.TER.CUAT.DO.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+418,2013,0.3435600102,SE.TER.CUAT.DO.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+419,2014,0.3507800102,SE.TER.CUAT.DO.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+420,2015,0.3386299908,SE.TER.CUAT.DO.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+421,2013,0.9164100289,SE.TER.CUAT.DO.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+422,2014,0.8842599988000001,SE.TER.CUAT.DO.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+423,2013,1.6771600246,SE.TER.CUAT.DO.ZS,USA,United States,North America,High income,Not classified
+424,2014,1.76947999,SE.TER.CUAT.DO.ZS,USA,United States,North America,High income,Not classified
+425,2015,1.7013100386,SE.TER.CUAT.DO.ZS,USA,United States,North America,High income,Not classified
+426,2010,651694.0,SP.POP.AG25.TO.UN,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+427,2011,654609.0,SP.POP.AG25.TO.UN,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+428,2012,660519.0,SP.POP.AG25.TO.UN,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+429,2013,668223.0,SP.POP.AG25.TO.UN,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+430,2015,682011.0,SP.POP.AG25.TO.UN,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+431,2010,295809.0,SP.POP.AG25.TO.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+432,2011,299316.0,SP.POP.AG25.TO.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+433,2012,301916.0,SP.POP.AG25.TO.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+434,2013,303787.0,SP.POP.AG25.TO.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+435,2015,306590.0,SP.POP.AG25.TO.UN,AUS,Australia,East Asia & Pacific,High income,Not classified
+436,2010,3554142.0,SP.POP.AG25.TO.UN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+437,2011,3527686.0,SP.POP.AG25.TO.UN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+438,2012,3483776.0,SP.POP.AG25.TO.UN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+439,2013,3430196.0,SP.POP.AG25.TO.UN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+440,2015,3333926.0,SP.POP.AG25.TO.UN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+441,2010,459306.0,SP.POP.AG25.TO.UN,CAN,Canada,North America,High income,Not classified
+442,2011,463806.0,SP.POP.AG25.TO.UN,CAN,Canada,North America,High income,Not classified
+443,2012,468267.0,SP.POP.AG25.TO.UN,CAN,Canada,North America,High income,Not classified
+444,2013,472374.0,SP.POP.AG25.TO.UN,CAN,Canada,North America,High income,Not classified
+445,2015,477985.0,SP.POP.AG25.TO.UN,CAN,Canada,North America,High income,Not classified
+446,2010,21432769.0,SP.POP.AG25.TO.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+447,2011,21954144.0,SP.POP.AG25.TO.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+448,2012,22369242.0,SP.POP.AG25.TO.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+449,2013,22636063.0,SP.POP.AG25.TO.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+450,2015,22587919.0,SP.POP.AG25.TO.UN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+451,2010,786308.0,SP.POP.AG25.TO.UN,FRA,France,Europe & Central Asia,High income,Not classified
+452,2011,786836.0,SP.POP.AG25.TO.UN,FRA,France,Europe & Central Asia,High income,Not classified
+453,2012,784954.0,SP.POP.AG25.TO.UN,FRA,France,Europe & Central Asia,High income,Not classified
+454,2013,781178.0,SP.POP.AG25.TO.UN,FRA,France,Europe & Central Asia,High income,Not classified
+455,2015,771381.0,SP.POP.AG25.TO.UN,FRA,France,Europe & Central Asia,High income,Not classified
+456,2010,1018292.0,SP.POP.AG25.TO.UN,DEU,Germany,Europe & Central Asia,High income,Not classified
+457,2011,1022458.0,SP.POP.AG25.TO.UN,DEU,Germany,Europe & Central Asia,High income,Not classified
+458,2012,1020346.0,SP.POP.AG25.TO.UN,DEU,Germany,Europe & Central Asia,High income,Not classified
+459,2013,1012832.0,SP.POP.AG25.TO.UN,DEU,Germany,Europe & Central Asia,High income,Not classified
+460,2015,987715.0,SP.POP.AG25.TO.UN,DEU,Germany,Europe & Central Asia,High income,Not classified
+461,2010,21464538.0,SP.POP.AG25.TO.UN,IND,India,South Asia,Lower middle income,IBRD
+462,2011,21828729.0,SP.POP.AG25.TO.UN,IND,India,South Asia,Lower middle income,IBRD
+463,2012,22194334.0,SP.POP.AG25.TO.UN,IND,India,South Asia,Lower middle income,IBRD
+464,2013,22554024.0,SP.POP.AG25.TO.UN,IND,India,South Asia,Lower middle income,IBRD
+465,2015,23217746.0,SP.POP.AG25.TO.UN,IND,India,South Asia,Lower middle income,IBRD
+466,2010,4249382.0,SP.POP.AG25.TO.UN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+467,2011,4239401.0,SP.POP.AG25.TO.UN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+468,2012,4221396.0,SP.POP.AG25.TO.UN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+469,2013,4198790.0,SP.POP.AG25.TO.UN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+470,2015,4157193.0,SP.POP.AG25.TO.UN,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+471,2010,617335.0,SP.POP.AG25.TO.UN,ITA,Italy,Europe & Central Asia,High income,Not classified
+472,2011,611193.0,SP.POP.AG25.TO.UN,ITA,Italy,Europe & Central Asia,High income,Not classified
+473,2012,608161.0,SP.POP.AG25.TO.UN,ITA,Italy,Europe & Central Asia,High income,Not classified
+474,2013,607247.0,SP.POP.AG25.TO.UN,ITA,Italy,Europe & Central Asia,High income,Not classified
+475,2015,606723.0,SP.POP.AG25.TO.UN,ITA,Italy,Europe & Central Asia,High income,Not classified
+476,2010,1431515.0,SP.POP.AG25.TO.UN,JPN,Japan,East Asia & Pacific,High income,Not classified
+477,2011,1394988.0,SP.POP.AG25.TO.UN,JPN,Japan,East Asia & Pacific,High income,Not classified
+478,2012,1358568.0,SP.POP.AG25.TO.UN,JPN,Japan,East Asia & Pacific,High income,Not classified
+479,2013,1323894.0,SP.POP.AG25.TO.UN,JPN,Japan,East Asia & Pacific,High income,Not classified
+480,2015,1268502.0,SP.POP.AG25.TO.UN,JPN,Japan,East Asia & Pacific,High income,Not classified
+481,2010,703872.0,SP.POP.AG25.TO.UN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+482,2011,691463.0,SP.POP.AG25.TO.UN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+483,2012,677065.0,SP.POP.AG25.TO.UN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+484,2013,662963.0,SP.POP.AG25.TO.UN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+485,2015,647347.0,SP.POP.AG25.TO.UN,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+486,2010,1793808.0,SP.POP.AG25.TO.UN,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+487,2011,1809062.0,SP.POP.AG25.TO.UN,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+488,2012,1826879.0,SP.POP.AG25.TO.UN,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+489,2013,1846872.0,SP.POP.AG25.TO.UN,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+490,2015,1891895.0,SP.POP.AG25.TO.UN,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+491,2010,2519618.0,SP.POP.AG25.TO.UN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+492,2011,2490377.0,SP.POP.AG25.TO.UN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+493,2012,2433130.0,SP.POP.AG25.TO.UN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+494,2013,2349956.0,SP.POP.AG25.TO.UN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+495,2015,2122220.0,SP.POP.AG25.TO.UN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+496,2010,463339.0,SP.POP.AG25.TO.UN,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+497,2011,473540.0,SP.POP.AG25.TO.UN,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+498,2012,487644.0,SP.POP.AG25.TO.UN,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+499,2013,503940.0,SP.POP.AG25.TO.UN,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+500,2015,533534.0,SP.POP.AG25.TO.UN,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+501,2010,927811.0,SP.POP.AG25.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+502,2011,933363.0,SP.POP.AG25.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+503,2012,937725.0,SP.POP.AG25.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+504,2013,941465.0,SP.POP.AG25.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+505,2015,950028.0,SP.POP.AG25.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+506,2010,817828.0,SP.POP.AG25.TO.UN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+507,2011,829096.0,SP.POP.AG25.TO.UN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+508,2012,837509.0,SP.POP.AG25.TO.UN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+509,2013,842992.0,SP.POP.AG25.TO.UN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+510,2015,845931.0,SP.POP.AG25.TO.UN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+511,2010,4460732.0,SP.POP.AG25.TO.UN,USA,United States,North America,High income,Not classified
+512,2011,4528736.0,SP.POP.AG25.TO.UN,USA,United States,North America,High income,Not classified
+513,2012,4590244.0,SP.POP.AG25.TO.UN,USA,United States,North America,High income,Not classified
+514,2013,4643417.0,SP.POP.AG25.TO.UN,USA,United States,North America,High income,Not classified
+515,2015,4718164.0,SP.POP.AG25.TO.UN,USA,United States,North America,High income,Not classified
+516,2010,18486800000.0,NY.ADJ.AEDU.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+517,2011,25071046464.349,NY.ADJ.AEDU.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+518,2012,27750868811.7813,NY.ADJ.AEDU.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+519,2013,28253339862.4255,NY.ADJ.AEDU.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+520,2014,26234710218.4611,NY.ADJ.AEDU.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+521,2015,30665433943.5912,NY.ADJ.AEDU.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+522,2010,55880000000.0,NY.ADJ.AEDU.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+523,2011,64990000000.0,NY.ADJ.AEDU.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+524,2012,75750000000.0,NY.ADJ.AEDU.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+525,2013,76343429208.5996,NY.ADJ.AEDU.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+526,2014,69565654244.5425,NY.ADJ.AEDU.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+527,2015,66265485442.7527,NY.ADJ.AEDU.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+528,2010,115346000000.0,NY.ADJ.AEDU.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+529,2011,139995000000.0,NY.ADJ.AEDU.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+530,2012,132960000000.0,NY.ADJ.AEDU.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+531,2013,135223595395.461,NY.ADJ.AEDU.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+532,2014,136724850927.149,NY.ADJ.AEDU.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+533,2015,107903098010.868,NY.ADJ.AEDU.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+534,2010,79500000000.0,NY.ADJ.AEDU.CD,CAN,Canada,North America,High income,Not classified
+535,2011,86768000000.0,NY.ADJ.AEDU.CD,CAN,Canada,North America,High income,Not classified
+536,2012,88740000000.0,NY.ADJ.AEDU.CD,CAN,Canada,North America,High income,Not classified
+537,2013,89726000000.0,NY.ADJ.AEDU.CD,CAN,Canada,North America,High income,Not classified
+538,2014,87754000000.0,NY.ADJ.AEDU.CD,CAN,Canada,North America,High income,Not classified
+539,2015,75429000000.0,NY.ADJ.AEDU.CD,CAN,Canada,North America,High income,Not classified
+540,2010,108474000000.0,NY.ADJ.AEDU.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+541,2011,133892000000.0,NY.ADJ.AEDU.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+542,2012,152329000000.0,NY.ADJ.AEDU.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+543,2013,169871000000.0,NY.ADJ.AEDU.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+544,2014,187950000000.0,NY.ADJ.AEDU.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+545,2015,196900000000.0,NY.ADJ.AEDU.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+546,2010,137700000000.0,NY.ADJ.AEDU.CD,FRA,France,Europe & Central Asia,High income,Not classified
+547,2011,145530000000.0,NY.ADJ.AEDU.CD,FRA,France,Europe & Central Asia,High income,Not classified
+548,2012,137274000000.0,NY.ADJ.AEDU.CD,FRA,France,Europe & Central Asia,High income,Not classified
+549,2013,141098706106.184,NY.ADJ.AEDU.CD,FRA,France,Europe & Central Asia,High income,Not classified
+550,2014,144202568738.658,NY.ADJ.AEDU.CD,FRA,France,Europe & Central Asia,High income,Not classified
+551,2015,122891622698.477,NY.ADJ.AEDU.CD,FRA,France,Europe & Central Asia,High income,Not classified
+552,2010,161928000000.0,NY.ADJ.AEDU.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+553,2011,174336000000.0,NY.ADJ.AEDU.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+554,2012,168587000000.0,NY.ADJ.AEDU.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+555,2013,170417918373.575,NY.ADJ.AEDU.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+556,2014,177367141372.706,NY.ADJ.AEDU.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+557,2015,152008270878.612,NY.ADJ.AEDU.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+558,2010,51128000000.0,NY.ADJ.AEDU.CD,IND,India,South Asia,Lower middle income,IBRD
+559,2011,55748000000.0,NY.ADJ.AEDU.CD,IND,India,South Asia,Lower middle income,IBRD
+560,2012,55748000000.0,NY.ADJ.AEDU.CD,IND,India,South Asia,Lower middle income,IBRD
+561,2013,56364000000.0,NY.ADJ.AEDU.CD,IND,India,South Asia,Lower middle income,IBRD
+562,2014,62216000000.0,NY.ADJ.AEDU.CD,IND,India,South Asia,Lower middle income,IBRD
+563,2015,64064000000.0,NY.ADJ.AEDU.CD,IND,India,South Asia,Lower middle income,IBRD
+564,2010,18742500000.0,NY.ADJ.AEDU.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+565,2011,24824800000.0,NY.ADJ.AEDU.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+566,2012,27206000000.0,NY.ADJ.AEDU.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+567,2013,26992500000.0,NY.ADJ.AEDU.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+568,2014,25874911740.2061,NY.ADJ.AEDU.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+569,2015,27193516874.7534,NY.ADJ.AEDU.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+570,2010,87756000000.0,NY.ADJ.AEDU.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+571,2011,89997000000.0,NY.ADJ.AEDU.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+572,2012,81295269452.618,NY.ADJ.AEDU.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+573,2013,83858173262.4318,NY.ADJ.AEDU.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+574,2014,83479485534.7721,NY.ADJ.AEDU.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+575,2015,71224626782.8993,NY.ADJ.AEDU.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+576,2010,179821171817.315,NY.ADJ.AEDU.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+577,2011,196514740754.879,NY.ADJ.AEDU.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+578,2012,203493476873.867,NY.ADJ.AEDU.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+579,2013,166382290914.231,NY.ADJ.AEDU.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+580,2014,149841126764.761,NY.ADJ.AEDU.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+581,2015,130534230666.996,NY.ADJ.AEDU.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+582,2010,46488489176.4759,NY.ADJ.AEDU.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+583,2011,52352428456.2776,NY.ADJ.AEDU.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+584,2012,53019000000.0,NY.ADJ.AEDU.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+585,2013,62968206909.6288,NY.ADJ.AEDU.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+586,2014,68476959695.915,NY.ADJ.AEDU.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+587,2015,68189405682.8908,NY.ADJ.AEDU.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+588,2010,52605000000.0,NY.ADJ.AEDU.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+589,2011,58464000000.0,NY.ADJ.AEDU.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+590,2012,59028727324.3378,NY.ADJ.AEDU.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+591,2013,57021415676.9445,NY.ADJ.AEDU.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+592,2014,66417796814.9139,NY.ADJ.AEDU.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+593,2015,59312486979.8712,NY.ADJ.AEDU.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+594,2010,52650349155.0871,NY.ADJ.AEDU.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+595,2011,70815118486.4022,NY.ADJ.AEDU.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+596,2012,76176324062.3429,NY.ADJ.AEDU.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+597,2013,79121848347.3862,NY.ADJ.AEDU.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+598,2014,74720821460.2528,NY.ADJ.AEDU.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+599,2015,48381198660.9842,NY.ADJ.AEDU.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+600,2010,38446098845.0,NY.ADJ.AEDU.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+601,2011,48937931427.0,NY.ADJ.AEDU.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+602,2012,53680814649.0,NY.ADJ.AEDU.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+603,2013,54615018920.0,NY.ADJ.AEDU.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+604,2014,55549223191.0,NY.ADJ.AEDU.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+605,2015,48291174624.0,NY.ADJ.AEDU.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+606,2010,22699500000.0001,NY.ADJ.AEDU.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+607,2011,26328300000.0,NY.ADJ.AEDU.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+608,2012,26500000000.0,NY.ADJ.AEDU.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+609,2013,23195894204.8772,NY.ADJ.AEDU.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+610,2014,22208400000.0,NY.ADJ.AEDU.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+611,2015,19103820358.4564,NY.ADJ.AEDU.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+612,2010,26860734843.7158,NY.ADJ.AEDU.CD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+613,2011,30788234074.6293,NY.ADJ.AEDU.CD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+614,2012,34196217376.7689,NY.ADJ.AEDU.CD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+615,2013,36302991571.0643,NY.ADJ.AEDU.CD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+616,2014,35507370698.3377,NY.ADJ.AEDU.CD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+617,2015,32474593907.0345,NY.ADJ.AEDU.CD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+618,2010,136950000000.0,NY.ADJ.AEDU.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+619,2011,138020000000.0,NY.ADJ.AEDU.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+620,2012,141493999999.999,NY.ADJ.AEDU.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+621,2013,147675000000.0,NY.ADJ.AEDU.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+622,2014,167281833033.296,NY.ADJ.AEDU.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+623,2015,158948015239.868,NY.ADJ.AEDU.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+624,2010,735826874962.649,NY.ADJ.AEDU.CD,USA,United States,North America,High income,Not classified
+625,2011,802950000000.0,NY.ADJ.AEDU.CD,USA,United States,North America,High income,Not classified
+626,2012,751834278780.948,NY.ADJ.AEDU.CD,USA,United States,North America,High income,Not classified
+627,2013,757543729433.08,NY.ADJ.AEDU.CD,USA,United States,North America,High income,Not classified
+628,2014,791365510771.243,NY.ADJ.AEDU.CD,USA,United States,North America,High income,Not classified
+629,2015,822140836190.125,NY.ADJ.AEDU.CD,USA,United States,North America,High income,Not classified

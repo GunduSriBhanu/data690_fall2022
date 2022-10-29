@@ -12,4 +12,11 @@ The topics that interested me are Education, Unemployment for the population of 
 
 ![image](https://user-images.githubusercontent.com/112648901/198840235-2fe1ff37-987d-460b-938d-6da01f56d00c.png)
 
+The G20 Countries are : 'Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'France',
+       'Germany', 'India', 'Indonesia', 'Italy', 'Japan', 'Korea, Rep.',
+       'Mexico', 'Russian Federation', 'Saudi Arabia', 'South Africa',
+       'Turkiye', 'United Kingdom' and 'United States'.
+
+Initially, analyzed the data with population for these G20 countries:
+
 

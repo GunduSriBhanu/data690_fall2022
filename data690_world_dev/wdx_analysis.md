@@ -5,7 +5,7 @@ World Development Indicators (WDI) are the World Bank's most comprehensive colle
 Most of the data themes in the website are Poverty and Inequality, People, environment, economy, states and markets and Global links. It provides information about the countries on education, economy, health and many more.
 
 ## Step 2:
-Explored the data "https://github.com/GunduSriBhanu/data690_fall2022/blob/main/data690_world_dev/data/Education_wdx_data_2010_2015.csv" from website "https://www.worlddev.xyz/", analysed different indicators from Health, Education and Economy. Performed analysis using distribution charts, scatter plots and line charts over years. From this analysis, I choose the topic **Importance of education and Unemployment in G20 Countries**
+Explored the data "https://github.com/GunduSriBhanu/data690_fall2022/blob/main/data690_world_dev/data/Education_wdx_data_2010_2015.csv" from website "https://www.worlddev.xyz/", analysed different indicators from Health, Education and Economy. Performed analysis using distribution charts, scatter plots and line charts over years. From this analysis, I choose the topic **Importance of education and Unemployment in G20 Countries** and will implement as story in "www.medium.com"
 
 ## Step 3: Importance of education and Unemployment in G20 Countries
 The topics that interested me are Education, Unemployment for the population of group age 25+ in G20 countries over the years 2010 to 2015. The indicators analyzed are :
